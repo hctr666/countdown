@@ -1,3 +1,7 @@
+
+/**
+ * A simple class to handle countdown
+ */
 export default class Countdown {
 
    constructor(endDate, options) {
