@@ -1,2 +1,2 @@
 # countdown
-Simple class to manage countdown logic
+Simple javascript class to manage countdown logic
